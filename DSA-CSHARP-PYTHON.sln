@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA-CSHARP-PYTHON", "DSA-CSHARP-PYTHON.csproj", "{BB34169E-5A48-4480-82FA-EF2B33E78443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB34169E-5A48-4480-82FA-EF2B33E78443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB34169E-5A48-4480-82FA-EF2B33E78443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB34169E-5A48-4480-82FA-EF2B33E78443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB34169E-5A48-4480-82FA-EF2B33E78443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
