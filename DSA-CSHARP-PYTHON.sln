@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticArrays", "StaticArrays\StaticArrays.csproj", "{7EBD94CB-35EC-4583-86AC-489E7BAEB63B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrays", "DynamicArrays\DynamicArrays.csproj", "{98FFAE21-AD14-4E00-9968-73A78D8437EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7EBD94CB-35EC-4583-86AC-489E7BAEB63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EBD94CB-35EC-4583-86AC-489E7BAEB63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EBD94CB-35EC-4583-86AC-489E7BAEB63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FFAE21-AD14-4E00-9968-73A78D8437EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FFAE21-AD14-4E00-9968-73A78D8437EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FFAE21-AD14-4E00-9968-73A78D8437EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FFAE21-AD14-4E00-9968-73A78D8437EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

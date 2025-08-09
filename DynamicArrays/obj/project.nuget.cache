@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QS51lywUN/0=",
+  "success": true,
+  "projectFilePath": "/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/DynamicArrays/DynamicArrays.csproj",
+  "expectedPackageFiles": [
+    "/home/matheuscastelo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

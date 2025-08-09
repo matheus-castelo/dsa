@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("StaticArrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DynamicArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57ee319e18d548978b247c3ec5e9cd04705bb8d")]
-[assembly: System.Reflection.AssemblyProductAttribute("StaticArrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("StaticArrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("DynamicArrays")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DynamicArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

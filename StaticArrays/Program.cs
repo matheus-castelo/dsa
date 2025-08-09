@@ -40,9 +40,9 @@
            
            Insert / Remove End	O(1)	
            
-           Insert Middle	O(n)	
+           Insert Middle	O(n)	(worst case, you will have to shift elements)
            
-           Remove Middle	O(n)	
+           Remove Middle	O(n)	(worst case, you will have to shift elements)
           
          */
         
