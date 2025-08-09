@@ -1,0 +1,15 @@
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/bin/Debug/net8.0/StaticArrays
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/bin/Debug/net8.0/StaticArrays.deps.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/bin/Debug/net8.0/StaticArrays.runtimeconfig.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/bin/Debug/net8.0/StaticArrays.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/bin/Debug/net8.0/StaticArrays.pdb
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.AssemblyInfoInputs.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.AssemblyInfo.cs
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.csproj.CoreCompileInputs.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.sourcelink.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/refint/StaticArrays.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.pdb
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/StaticArrays.genruntimeconfig.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/StaticArrays/obj/Debug/net8.0/ref/StaticArrays.dll

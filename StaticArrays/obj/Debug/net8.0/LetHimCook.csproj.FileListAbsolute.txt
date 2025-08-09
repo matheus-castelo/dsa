@@ -1,0 +1,15 @@
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/bin/Debug/net8.0/LetHimCook
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/bin/Debug/net8.0/LetHimCook.deps.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/bin/Debug/net8.0/LetHimCook.runtimeconfig.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/bin/Debug/net8.0/LetHimCook.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/bin/Debug/net8.0/LetHimCook.pdb
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.AssemblyInfoInputs.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.AssemblyInfo.cs
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.csproj.CoreCompileInputs.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.sourcelink.json
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/refint/LetHimCook.dll
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.pdb
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/LetHimCook.genruntimeconfig.cache
+/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/LetHimCook/obj/Debug/net8.0/ref/LetHimCook.dll

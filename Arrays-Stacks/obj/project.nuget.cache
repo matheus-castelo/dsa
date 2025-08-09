@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwDqoaN1wBU=",
+  "success": true,
+  "projectFilePath": "/home/matheuscastelo/RiderProjects/DSA-CSHARP-PYTHON/Arrays-Stacks/Arrays-Stacks.csproj",
+  "expectedPackageFiles": [
+    "/home/matheuscastelo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
